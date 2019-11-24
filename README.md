@@ -1,2 +1,2 @@
 # AnalyticsVidhya
-All hackathons and tutorials
+AMExpert Hackathon conducted by Analytics Vidhya
